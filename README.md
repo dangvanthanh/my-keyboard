@@ -4,8 +4,8 @@
 
 |          | [UT47.2](https://github.com/ai03-2725/UT47.2) | Nibble | Sofle V2 | GK64XS | Anne Pro 2 | Das 4 | Filco |
 | -------- | --------------------------------------------- | ------ | -------- | ------ | ---------- | ----- | ----- |
-| Keyboard | ![](./keyboard/ut472.jpg | width=60)                     |        |          |        |            |       |       |
-| Switch   | Boba 4U Silent                                |        |          |        |            |       |       |
+| Keyboard | <img src="./keyboard/ut472.jpg" width="80">   |        |          |        |            |       |       |
+| Switch   | Boba 4U Gum Linear                            |        |          |        |            |       |       |
 | Keycap   | KAT Alpha                                     |        |          |        |            |       |       |
 |          |                                               |        |          |        |            |       |       |
 
