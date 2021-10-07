@@ -1,14 +1,15 @@
 # My Keyboard
 
-> Backup config QMK for my keyboard
+## My Keyboard
 
-## Keyboard
+|          | [UT47.2](https://github.com/ai03-2725/UT47.2) | Nibble | Sofle V2 | GK64XS | Anne Pro 2 | Das 4 | Filco |
+| -------- | --------------------------------------------- | ------ | -------- | ------ | ---------- | ----- | ----- |
+| Keyboard | ![](./keyboard/ut472.jpg | width=60)                     |        |          |        |            |       |       |
+| Switch   | Boba 4U Silent                                |        |          |        |            |       |       |
+| Keycap   | KAT Alpha                                     |        |          |        |            |       |       |
+|          |                                               |        |          |        |            |       |       |
 
-- [UT47.2 - 40% Keyboard](https://github.com/ai03-2725/UT47.2)
-- [Nibble - 65% Keyboard](https://github.com/nullbitsco/nibble)
-- [Sofle V2 - Split Keyboard](https://github.com/josefadamcik/SofleKeyboard)
-
-## Configuration
+## QMK
 
 - [QMK Firmware](https://github.com/qmk/qmk_firmware)
 - [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
